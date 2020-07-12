@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**emmgfx/emmgfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Josep Viciana (*a.k.a. emmgfx*).
 
-Here are some ideas to get you started:
+ - 👨🏻‍💻 Senior Web & Android developer.
+ - ⏱️ More than 15 years doing what I love.
+ - 📖 Always willing to make a mistake if I can learn something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Frontend #Backend #Android #Serverless
+
+You can see more about me at:
+
+ - 🌐 https://www.linkedin.com/in/emmgfx
+ - 🌐 https://www.twitter.com/emmgfx
+ - 🌐 https://www.instagram.com/emmgfx/
+ - 🗞️ https://www.emm-gfx.net/
+ - ...and almost all social networks or services, with the same nick.
+ 
+ IDK why, but I'm writting this readme in english although my primary language is spanish and my english level is not the best, 😅.
