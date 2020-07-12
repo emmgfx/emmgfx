@@ -16,4 +16,4 @@ You can see more about me at:
  - 🗞️ https://www.emm-gfx.net/
  - ...and almost all social networks or services, with the same nick.
  
- IDK why, but I'm writting this readme in english although my primary language is spanish and my english level is not the best, 😅.
+ IDK why, but I'm writing this readme in english although my primary language is spanish and my english level is not the best, 😅.
