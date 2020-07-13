@@ -10,10 +10,10 @@ I'm **Josep Viciana** (*a.k.a. emmgfx*).
 
 You can see **more about me** at:
 
- - 🌐 My LinkedIn: https://www.linkedin.com/in/emmgfx
- - 🌐 My Twitter: https://www.twitter.com/emmgfx
- - 🌐 My Instagram: https://www.instagram.com/emmgfx/
- - 🗞️ My blog: https://www.emm-gfx.net/
- - ...and almost all social networks or services, with the same nick.
+🌐 My LinkedIn: https://www.linkedin.com/in/emmgfx
+🌐 My Twitter: https://www.twitter.com/emmgfx
+🌐 My Instagram: https://www.instagram.com/emmgfx/
+🗞️ My blog: https://www.emm-gfx.net/
+...and almost all social networks or services, with the same nick.
  
  IDK why, but I'm writing this readme in english although my primary language is spanish and my english level is not the best, 😅.
