@@ -8,7 +8,7 @@ I'm **Josep Viciana** (*a.k.a. emmgfx*).
 
 #Frontend #Backend #Android
 
-You can see **more about me* at:
+You can see **more about me** at:
 
  - 🌐 My LinkedIn: https://www.linkedin.com/in/emmgfx
  - 🌐 My Twitter: https://www.twitter.com/emmgfx
