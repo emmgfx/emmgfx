@@ -8,11 +8,7 @@ Always willing to make a mistake if I can learn something new.
 
 Expertise with frontend, backend and Android. Currently focused on frontend.
 
-You can see **more about me** at:
-
- - My [website](https://www.viciana.me/)
- - My [LinkedIn](https://www.linkedin.com/in/emmgfx) 
- - My [blog](https://www.emm-gfx.net/)
+You can see **more about me** at my [website](https://www.viciana.me/), my [blog](https://www.emm-gfx.net/) and my [LinkedIn](https://www.linkedin.com/in/emmgfx).
 
 ### Get in touch
  
