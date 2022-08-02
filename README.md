@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm **Josep Viciana** (*a.k.a. emmgfx*).
-
-Senior software developer with more than 15 years of experience doing what I love.
+I'm **Josep Viciana** (*a.k.a. emmgfx*). Senior software developer with more than 15 years of experience doing what I love.
 
 I've expertise with frontend, backend and Android. Currently focused on frontend.
 
