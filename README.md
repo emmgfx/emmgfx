@@ -4,9 +4,7 @@ I'm **Josep Viciana** (*a.k.a. emmgfx*).
 
 Senior software developer with more than 15 years of experience doing what I love.
 
-Always willing to make a mistake if I can learn something new.
-
-Expertise with frontend, backend and Android. Currently focused on frontend.
+I've expertise with frontend, backend and Android. Currently focused on frontend.
 
 You can see **more about me** at my [website](https://www.viciana.me/), my [blog](https://www.emm-gfx.net/) and my [LinkedIn](https://www.linkedin.com/in/emmgfx).
 
