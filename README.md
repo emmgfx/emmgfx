@@ -8,9 +8,13 @@ I've expertise with frontend, backend and Android. Currently focused on frontend
 
 You can see **more about me** at my [website](https://www.viciana.me/), my [blog](https://www.emm-gfx.net/) and my [LinkedIn](https://www.linkedin.com/in/emmgfx).
 
+---
+
 ### Get in touch
  
 If you want to contact me, here's [my website](https://www.viciana.me/).
+
+---
 
 ### Featured projects
 
@@ -18,3 +22,14 @@ If you want to contact me, here's [my website](https://www.viciana.me/).
  - [Stadiaffinity](https://stadiaffinity.com): Google Stadia games advisor algorithm / service. Built with Next, Tailwind, Supabase. Deployed on Vercel.
  - [Marmota Music](https://github.com/wearemarmota/marmota-music-webapp): Open source music streaming service (Google Play Music replacement). Built with React and Lumen.
  - [wp-marmota](https://github.com/emmgfx/wp-marmota): Open source theme for Wordpress. Built with PHP, SCSS and Gulp.
+
+---
+
+### Stats
+<!-- ![](https://github-readme-stats.vercel.app/api?username=emmgfx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false) -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=emmgfx&theme=tokyonight&hide_border=false) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmgfx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=emmgfx&theme=tokyo-night) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmgfx&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&hide_progress=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=emmgfx&theme=dracula&hide_border=true)
