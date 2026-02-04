@@ -17,7 +17,7 @@ If you want to contact me, here's [my website](https://www.viciana.me/).
 ### Featured projects
 
  - [Stadiaffinity](https://stadiaffinity.com): Google Stadia games advisor algorithm / service. Built with Next, Tailwind, Supabase. Deployed on Vercel.
- - [RMORT](emmgfx/ng-mort): Understand how you money can fly away with a mortgage and how much relevant are the periodical amortizations.
+ - [RMORT](/emmgfx/rmort): Understand how you money can fly away with a mortgage and how much relevant are the periodical amortizations.
  - [Marmota Music](https://github.com/wearemarmota/marmota-music-webapp): Open source music streaming service (Google Play Music replacement). Built with React and Lumen.
  - [wp-marmota](https://github.com/emmgfx/wp-marmota): Open source theme for Wordpress. Built with PHP, SCSS and Gulp.
 
