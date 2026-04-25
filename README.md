@@ -18,7 +18,7 @@ If you want to contact me, here's [my website](https://www.viciana.me/).
 
  - [@emmgfx/logger](https://github.com/emmgfx/logger): Color coded logger with buffer and source persistence for JavaScript/TypeScript
  - [@emmgfx/activity-tabs](https://github.com/emmgfx/activity-tabs): React tabs component that doesn't lose your state
- - [@emmgfx/scroll-shadow](https://github.com/emmgfx/scroll-shadow): Scroll shadow indicators for React using IntersectionObserver
+ - [@emmgfx/scroll-hint](https://github.com/emmgfx/scroll-hint): Scroll hint indicators for React using IntersectionObserver
  - [Stadiaffinity](https://stadiaffinity.com): Google Stadia games advisor algorithm / service. Built with Next, Tailwind, Supabase. Deployed on Vercel.
  - [RMORT](https://github.com/emmgfx/rmort): Understand how you money can fly away with a mortgage and how much relevant are the periodical amortizations.
  - [Marmota Music](https://github.com/wearemarmota/marmota-music-webapp): Open source music streaming service (Google Play Music replacement). Built with React and Lumen.
